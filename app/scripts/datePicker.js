@@ -1,4 +1,3 @@
-/* global _ */
 'use strict';
 
 var Module = angular.module('datePicker', []);
